@@ -10,6 +10,7 @@ namespace Ping_Server
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
